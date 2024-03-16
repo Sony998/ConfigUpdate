@@ -1,0 +1,12 @@
+#!/bin/bash
+# Ejecutar xbindkeys
+xbindkeys -f ~/.xbindkeysrc &
+
+# Iniciar Spotify
+spotify &
+
+# Iniciar Brave Browser
+brave-browser &
+
+# Iniciar Visual Studio Code
+code &
